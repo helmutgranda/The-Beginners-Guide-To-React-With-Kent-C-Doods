@@ -1,5 +1,7 @@
 # LIVE! hatching_chick The Beginner’s Guide to React with Kent C. Dodds [Free Community Event]
 
+![Schedule](schedule.png)
+
 Kent is moving away from Classes to Functional Components
 
 There are so many options and as an experienced Web Developers we are able to make the distinction between the tools while new people are not able to do so
